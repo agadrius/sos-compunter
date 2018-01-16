@@ -3,7 +3,7 @@
     <head>
         <!-- En-tête de la page -->
         <meta charset="utf-8" />
-        <title>Titre</title>
+        <title>Sos-Compunter</title>
     </head>
 
     <body>
