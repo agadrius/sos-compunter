@@ -19,6 +19,15 @@
     <![endif]-->
   </head>
   <body>
-
+	<div class="container">
+		<?php include 'include/header.php';?><!-- header includes -->
+		<!-- navigation -->
+		<?php include 'include/menu.php';?><!-- menu includes -->
+		<!-- slider -->
+		<?php include 'include/slider.php';?><!-- slider includes -->
+		<!-- corps de la page -->
+		<!-- footer -->
+		<?php include 'include/footer.php';?><!-- footer includes -->	
+	</div>
   </body>
 </html>
